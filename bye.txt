@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1> the main heading</h1>
+<p>this is the Aditya degree college. It is located in patamata near Vijayawada</p>
+</body>
+</html>
